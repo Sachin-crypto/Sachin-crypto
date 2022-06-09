@@ -1,3 +1,6 @@
+![sachin pal](https://user-images.githubusercontent.com/72191416/172851213-cb156855-be0f-4673-a94d-a0b60eebfc51.png)
+
+
 <h1 align="center">Hi 👋, I'm Sachin Pal</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
@@ -5,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/an_onymousboy" target="blank"><img src="https://img.shields.io/twitter/follow/an_onymousboy?logo=twitter&style=for-the-badge" alt="an_onymousboy" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, FastAPI**
 
-- 📝 I regularly write articles on [Python Programming](Python Programming)
+- 📝 I regularly write articles on **Python Programming**
 
 - 📫 How to reach me **saspsachin2345@gmail.com**
 
