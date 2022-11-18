@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django, FastAPI**
 
-- 📝 I regularly write articles on **Python Programming**
+- 📝 I regularly write articles on **Python Programming** on [GeekPython](https://geekpython.in/)
 
 - 📫 How to reach me **saspsachin2345@gmail.com**
 
