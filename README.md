@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Pal</h1>
 <h3 align="center">A Python enthusiast from India</h3>
 
-- 📝 I regularly write articles on [geekpython.in](geekpython.in)
+- 📝 I regularly write articles on [geekpython.in](https://www.geekpython.in)
 
 - 📫 How to reach me **saspsachin2345@gmail.com**
 
